@@ -3,3 +3,6 @@ my name is Husankhon, and this is my first git project, I am learning it in Scho
 I am really glad to be part of this community, and I am also part of IT community of Uzbekistan which is very very best place for networking
 
 some content here for main branch
+
+also some cnotent for feature branch
+
