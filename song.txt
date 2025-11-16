@@ -6,3 +6,4 @@ some content here for main branch
 
 also some cnotent for feature branch
 
+some content for tags
